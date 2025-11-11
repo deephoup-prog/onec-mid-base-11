@@ -70,7 +70,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ТП_КонтактныеЛица</name>
+		<name>Catalog.Т_КонтактныеЛица</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -370,7 +370,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ТП_Должности</name>
+		<name>Catalog.Т_Должности</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>

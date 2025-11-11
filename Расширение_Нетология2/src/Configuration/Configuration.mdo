@@ -1216,8 +1216,8 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.ТП_Должности</catalogs>
-  <catalogs>Catalog.ТП_КонтактныеЛица</catalogs>
+  <catalogs>Catalog.Т_Должности</catalogs>
+  <catalogs>Catalog.Т_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ТП_ДоставкаПрисоединенныеФайлы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>

@@ -7,14 +7,14 @@
     <listType typeId="90915edd-463c-43ec-a129-0b47b3bb6d42" valueTypeId="0ac3694f-53c6-4629-b3eb-d7889bff3b72"/>
     <managerType typeId="e10fa540-d56f-4c03-b281-6b43a6e60628" valueTypeId="1483f5a5-5809-4b0e-b700-bb5991947cec"/>
   </producedTypes>
-  <name>ТП_КонтактныеЛица</name>
+  <name>Т_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
     <value>Контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ТП_КонтактныеЛица.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.ТП_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Т_КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Т_КонтактныеЛица.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -116,8 +116,8 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.ТП_КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
-  <defaultChoiceForm>Catalog.ТП_КонтактныеЛица.Form.ФормаВыбора</defaultChoiceForm>
+  <defaultObjectForm>Catalog.Т_КонтактныеЛица.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultChoiceForm>Catalog.Т_КонтактныеЛица.Form.ФормаВыбора</defaultChoiceForm>
   <attributes uuid="c7456891-9a46-46b3-b8b6-548fe7d8686a">
     <name>КонтактныйТелефон</name>
     <synonym>
@@ -143,7 +143,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.ТП_Должности</types>
+      <types>CatalogRef.Т_Должности</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

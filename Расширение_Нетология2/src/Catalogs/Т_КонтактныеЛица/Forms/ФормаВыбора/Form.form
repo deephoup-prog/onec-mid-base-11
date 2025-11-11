@@ -461,7 +461,7 @@
     </edit>
     <main>true</main>
     <extInfo xsi:type="form:DynamicListExtInfo">
-      <mainTable>Catalog.ТП_КонтактныеЛица</mainTable>
+      <mainTable>Catalog.Т_КонтактныеЛица</mainTable>
       <dynamicDataRead>true</dynamicDataRead>
       <autoFillAvailableFields>true</autoFillAvailableFields>
       <autoSaveUserSettings>true</autoSaveUserSettings>
